@@ -1,0 +1,14 @@
+{
+  "name": "ssb-identities-migrate",
+  "version": "1.0.0",
+  "description": "Migrate from old version of ssb-identities to new plugin",
+  "main": "index.js",
+  "scripts": {
+    "migrate": "node ."
+  },
+  "author": "charles.lobo@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "left-pad": "^1.3.0"
+  }
+}
