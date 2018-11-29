@@ -22,7 +22,7 @@ the new.
 
 # Usage
 
-        $ yarn migrate everlife-api-1_old/data everlife-api-1/data
+        $ yarn migrate ../everlife-api-1_old/data ../everlife-api-1/data
 
 
 # Feedback
